@@ -663,6 +663,10 @@ a.curso-ciminalistica{
 
 @media (width: 240px){
 
+	.curso {
+	    margin: 0;
+	}
+
 	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
 	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
 	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
@@ -675,12 +679,20 @@ a.curso-ciminalistica{
 		background-image: none !important;
 	}
 
+	#menu-static .navbar-brand {
+	    margin-top: 7px;
+	}
+
 	#menu-static .navbar-brand img {
 	    max-height: 82%;
 	}
 }
 
 @media (width: 320px){
+
+	.curso {
+	    margin: 0;
+	}
 
 	.logo-footer img {
 	    width: 100%;
@@ -698,12 +710,20 @@ a.curso-ciminalistica{
 		background-image: none !important;
 	}
 
+	#menu-static .navbar-brand {
+	    margin-top: 7px;
+	}
+
 	#menu-static .navbar-brand img {
 	    max-height: 84%;
 	}
 }
 
 @media (max-width: 414px) {
+
+	.curso {
+	    margin: 0;
+	}
 
 	.element-normal-top {
 	    margin-top: 0 !important;
@@ -757,7 +777,7 @@ a.curso-ciminalistica{
 	}
 
 	#menu-static .navbar-brand{
-		margin-top: 0;
+		margin-top: 7px;
 	}
 
 	#menu-static .nav > li > a{
@@ -766,6 +786,10 @@ a.curso-ciminalistica{
 }
 
 @media (width: 568px) and (orientation: landscape) {
+
+	.curso {
+	    margin: 0;
+	}
 
 	.element-normal-top {
 	    margin-top: 0 !important;
@@ -798,7 +822,7 @@ a.curso-ciminalistica{
 	}
 
 	#menu-static .navbar-brand{
-		margin-top: 0;
+		margin-top: 7px;
 	}
 
 	#menu-static .nav > li > a{
@@ -807,6 +831,10 @@ a.curso-ciminalistica{
 }
 
 @media (width: 667px) and (orientation: landscape) {
+
+	.curso {
+	    margin: 0;
+	}
 
 	.element-normal-top {
 	    margin-top: 0 !important;
@@ -835,7 +863,7 @@ a.curso-ciminalistica{
 	}
 
 	#menu-static .navbar-brand{
-		margin-top: 0;
+		margin-top: 7px;
 	}
 
 	#menu-static .nav > li > a{
@@ -844,6 +872,10 @@ a.curso-ciminalistica{
 }
 
 @media (width: 736px) and (orientation: landscape) {
+
+	.curso {
+	    margin: 0;
+	}
 
 	.element-normal-top {
 	    margin-top: 0 !important;
@@ -880,7 +912,7 @@ a.curso-ciminalistica{
 	}
 
 	#menu-static .navbar-brand{
-		margin-top: 0;
+		margin-top: 7px;
 	}
 
 	#menu-static .nav > li > a{
@@ -889,6 +921,9 @@ a.curso-ciminalistica{
 }
 
 @media (width: 600px) and (orientation: landscape) {
+	.curso {
+	    margin: 0;
+	}
 
 	.element-normal-top {
 	    margin-top: 0 !important;
@@ -917,7 +952,7 @@ a.curso-ciminalistica{
 	}
 
 	#menu-static .navbar-brand{
-		margin-top: 0;
+		margin-top: 7px;
 	}
 
 	#menu-static .nav > li > a{
@@ -928,6 +963,10 @@ a.curso-ciminalistica{
 @media (width: 768px){
 	nav ul li {
 	    margin: 0;	
+	}
+
+	.curso {
+	    margin: 0;
 	}
 
 	.element-normal-top {
@@ -953,7 +992,7 @@ a.curso-ciminalistica{
 	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
 		background-image: none !important;
 	}
-	
+
 	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
 	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
 	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover
