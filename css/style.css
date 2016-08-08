@@ -663,6 +663,18 @@ a.curso-ciminalistica{
 
 @media (width: 240px){
 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
+	}
+
 	#menu-static .navbar-brand img {
 	    max-height: 82%;
 	}
@@ -672,6 +684,18 @@ a.curso-ciminalistica{
 
 	.logo-footer img {
 	    width: 100%;
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
 	}
 
 	#menu-static .navbar-brand img {
@@ -697,6 +721,18 @@ a.curso-ciminalistica{
 	    background: #FFF;
 	    margin-left: -23px;
 	    margin-top: 20px;
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
 	}
 
 	.nosotros ul{
@@ -745,6 +781,18 @@ a.curso-ciminalistica{
 	    margin-top: 20px;
 	}
 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
+	}
+
 	.p-informacion {
 	    font-size: 35px;
 	}
@@ -774,6 +822,18 @@ a.curso-ciminalistica{
 	    margin-top: 20px;
 	}
 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
+	}
+
 	#menu-static .navbar-brand{
 		margin-top: 0;
 	}
@@ -797,6 +857,18 @@ a.curso-ciminalistica{
 	    background: #FFF;
 	    margin-left: -23px;
 	    margin-top: 20px;
+	}
+
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
 	}
 
 	.numero-contacto i {
@@ -832,6 +904,18 @@ a.curso-ciminalistica{
 	    margin-top: 20px;
 	}
 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
+	}
+
 	#menu-static .navbar-brand{
 		margin-top: 0;
 	}
@@ -858,6 +942,21 @@ a.curso-ciminalistica{
 	    margin: 7.5px -15px;
 	}
 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-color: inherit !important;
+	}
+
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover {
+		background-image: none !important;
+	}
+	
+	.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:focus, 
+	.navbar .navbar-nav .open .dropdown-menu > .active > a:hover
 	.numero-contacto i {	    
 		margin-left: 90px;
 	}
