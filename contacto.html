@@ -114,7 +114,7 @@
 					    	<textarea class="form-control background-input" rows="3" id="txtMensaje"></textarea>
 					  	</div>
 					  	<div class="form-group">
-					  		<div class="g-recaptcha" data-sitekey="6LcQGScTAAAAAK-t-5jpGS3uEtDogJwHIPyPu3EI"></div>
+					  		<div id="captcha"></div>
 					  	</div>
 					  	<p class="color-red">(*) Campos obligatorios</p>
 					  	<button id="btnEnviar" type="submit" class="btn btn-default">Enviar</button>
@@ -219,6 +219,7 @@
 	<script type="text/javascript" src="js/googleMap.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDIHvNkAb4f_kyyZ5h75oV5aJrHIQRky9s&callback=initMap"
     async defer></script>
-    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
+    <script type="text/javascript" src="js/captcha.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=es&onload=onloadCallback&render=explicit'></script>
 </body>
 </html>
